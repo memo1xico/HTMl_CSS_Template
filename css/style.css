@@ -46,7 +46,7 @@ h6 {
     font-size: 60px;
   }
   .vip-heading + p {
-    margin: -20px 0 0;
+    margin-top: -20px;
   }
 }
 
@@ -198,7 +198,7 @@ body {
 .landing {
   background-image: url(../imgs/download.jpg);
   background-size: cover;
-  height: calc(100vh - 68px);
+  height: calc(100vh - 64px);
   position: relative;
 }
 
@@ -207,9 +207,13 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  translate: -50% -50%;
+  transform: translate(-50%, -50%);
   width: 320px;
   max-width: 100%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
 }
 .intro-text h1 {
   font-size: 50px;
