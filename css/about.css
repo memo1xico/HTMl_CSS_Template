@@ -1,0 +1,20 @@
+body {
+  background-color: #333;
+}
+
+h1,
+h2 {
+  background-color: #2d2d2d;
+  padding: 0px;
+  margin: auto auto;
+  text-align: center;
+  color: #10cab7;
+  font-size: 30px;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: #1d1d1d;
+}
