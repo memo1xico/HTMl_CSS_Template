@@ -1,2 +1,3 @@
-# This Is My Frist HTML_CSS Template
-## HTMl_CSS_Template
+## The Technologies Used In This Template Is :
+### 
+> HTML / Pure CSS / FontAwsome / Normalize CSS
